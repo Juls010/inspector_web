@@ -1,0 +1,11 @@
+{
+  "message": "Invalid API key format",
+  "status": 400,
+  "errors": [
+    {
+      "title": "Invalid API key format",
+      "detail": "Invalid API key format",
+      "status": 400
+    }
+  ]
+}
